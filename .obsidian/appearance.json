@@ -1,0 +1,22 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "bars-rulers",
+    "dice-roller",
+    "font-styling",
+    "headers",
+    "images",
+    "misc",
+    "name-level",
+    "pf2-compendium",
+    "popovers",
+    "property-and-line",
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "statblock-content",
+    "supercharged-links-gen",
+    "traits"
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone"
+}

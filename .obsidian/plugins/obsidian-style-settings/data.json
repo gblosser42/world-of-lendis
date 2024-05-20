@@ -1,0 +1,9 @@
+{
+  "ITS@@select": "pathfinder",
+  "ITS@@breadcrumbs-block": false,
+  "ITS@@paper": true,
+  "ITS@@writing": false,
+  "ITS@@default-statblock": false,
+  "ITS@@s-d": false,
+  "pathfinder-2e-statblocks@@layout-theme-misc": "pathfinder-2e-misc-layout-theme-default"
+}

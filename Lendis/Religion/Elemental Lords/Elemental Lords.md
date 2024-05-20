@@ -1,0 +1,7 @@
+The Elemental Planes touch [[Lendis]] closely, especially in the nexus city of [[Minabald]]. Mortals often worship the most powerful of the Elemental Lords, viewing the beings as manifest gods. The followers of the Elemental Lords try to cultivate elemental connections in their homes and lands, to allow for easier communication with their deities. Followers of this religion see Geniekin as holy, literally carrying the blood of gods in their veins. For this reason, Minabald is the center of the faith, and the high priests of that city speak with the Lords regularly. For all their power, however, Elemental Lords are not true gods, and can be opposed or even slain by a strong enough foe.
+
+While there are multiple Lords in each Elemental Plane, they are grouped together by element for mechanical purposes. To represent the diversity of Elemental Lords, each Lord listed has only two Cleric Spells. You may select one additional spell of your choice to add to this list, provided it is of a different level than the spells listed and has an elemental trait matching that Lord.
+
+Each Element has a different set of Edicts and Anathema, as well as different Devotee Benefits. All Elements have the [[heal|Heal]] or [[harm|Harm]] Divine Font.
+
+The six Elemental Lords are: [[Air Lord]], [[Earth Lord]], [[Fire Lord]], [[Metal Lord]], [[Water Lord]], and [[Wood Lord]]

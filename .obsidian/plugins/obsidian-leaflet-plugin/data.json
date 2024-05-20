@@ -1,0 +1,112 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1686945094733,
+      "markers": [],
+      "overlays": [
+        {
+          "radius": 1,
+          "loc": [
+            -1.42303466796875,
+            1.380859375
+          ],
+          "color": "blue",
+          "layer": "%5B%5BLendis.jpg%5D%5D",
+          "unit": "miles",
+          "desc": "",
+          "mutable": true,
+          "marker": null
+        }
+      ],
+      "shapes": [],
+      "files": [
+        "Lendis/Lendis.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "city",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 3.5,
+      "maxZoom": null
+    },
+    {
+      "type": "State",
+      "iconName": "exclamation",
+      "color": "#7a7a7a",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": 3.4
+    },
+    {
+      "type": "Landmark",
+      "iconName": "map-signs",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 3.5,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.6.1",
+  "version": {
+    "major": 5,
+    "minor": 6,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": true,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}
