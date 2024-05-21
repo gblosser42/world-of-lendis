@@ -26,18 +26,21 @@ Within The Assembly, a 2/3 majority is required to enact any legislation. As mor
 
 ### Religion
 
-Lorin's dominant religion is [[The Heavenly Choir]], which holds that the world was sung into existence by a great host of divinities. Song and music are highly valued, and many speeches on The Assembly's floor are given by singing.
+Lorin's dominant religion is [[The Heavenly Choir]], which holds that the world was sung into existence by a great host of divinities. Song and music are highly valued, and many speeches on The Assembly's floor are given by singing. With the collapse of the aristocracy, many have turned to the church for leadership. 
+
+The [[Church of the Heavenly Choir is]] lead by High Singer [[Zekilan]], who is trying to carefully guide the church through these tumultuous times without becoming the next target of revolutionary fervor. Her critics within the Church claim she is letting a golden opportunity pass by, a chance for the Church to become the de facto power in Lorin.
 
 ### Military
 
+Lorin's military is greatly weakened from its peak strength due to the plague and succession war. What is left is largely divided into two categories: local armies and the [[Republican Army]].
+Most towns have a local militia, designed to protect against bandits and raiders and handle basic [[The Nightmare|Nightmare]] incursions. They tend to be equipped with basic polearms and muskets with at most light armor.
 
+The Republican Army is better trained and equipped, and is operated out of [[Lorinhas]]. It is engaged with fending off incursions from the [[Dragon Empire]] and crushing any royalist uprisings attempting to destroy the new government. Most of the state's cavalry affiliated with the nobility, and was all but destroyed in the succession war. As a result, the Republican Army is mostly infantry, equipped with a mixture of pikes and muskets. The government is experimenting with field artillery using gunpowder, but lacks the centralized industrial capacity to do so in great number yet.
 
 ### Names
 
+Lorin names are typically medium or long in length, with alternating vowel and consonant sounds. Names are typically genderless, with no masculine/feminine differences. Lorin surnames are typically based on musical terms, although some Zhorholder surnames are also common.
 
+**Example given names** Ragadin, Lofimala, Adam, Namine, Seteta, Urileno
 
-**Example masculine names** Durik, Lorix, Grut, Andes, Basalt, Daci, Scoria, Tuff, Lime, Coal, Brecca, Travert
-
-**Example feminine names** Dora, Rego, Mola, Gneiss, Quartz, Phylli, Marble, Ruby, Sapphire, Diamond
-
-**Example surnames** Copperhead, Zincworker, Nickelblood, Ironarm, Goldtongue, Pewterheart
+**Example surnames** Allegro, Crescendo, Cadenza, Treble, Harmony, Nickelblood, Ironarm, Goldtongue
