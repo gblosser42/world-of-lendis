@@ -18,6 +18,276 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Ravidhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Ravidhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":38.0875}"
+                },
+                {
+                  "title": "Mirror of Stars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Mirror of Stars.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":19},\"to\":{\"line\":43,\"ch\":19}},\"scroll\":32.01470588235294}"
+                },
+                {
+                  "title": "Immortal Isle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Immortal Isle.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":34.9875}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":122},\"to\":{\"line\":41,\"ch\":122}},\"scroll\":29.570963541666668}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Dragon Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/Dragon Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dragon Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/Dragon Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Made Gods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Made Gods/The Made Gods.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Worldbirth Mountains",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Worldbirth Mountains.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Water Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Water Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Metal Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Metal Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fire Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Fire Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Earth Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Earth Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Air Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Air Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":386},\"to\":{\"line\":11,\"ch\":386}}}"
+                },
+                {
+                  "title": "Thaxhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Thaxhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Marksgrav",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Marksgrav.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Thaxhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Thaxhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":2.4647887323943665}"
+                },
+                {
+                  "title": "Ravidhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Ravidhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":666},\"to\":{\"line\":7,\"ch\":666}},\"scroll\":0}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":45,\"ch\":99}}}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Mirror of Stars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Mirror of Stars.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Marksgrav",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Marksgrav.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mirror of Stars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Mirror of Stars.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Immortal Isle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Immortal Isle.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Drakhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Drakhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dawn Keep",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Dawn Keep.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Zhorhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Zhorhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Worldbirth Mountains",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Worldbirth Mountains.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Voristed",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Voristed.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Thaxhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Thaxhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ravidhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Ravidhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mirror of Stars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Mirror of Stars.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Marksgrav",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Marksgrav.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":30.691176470588236}"
+                },
+                {
                   "title": "Zhorhold",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Zhorhold.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -286,8 +556,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lendis/Locations/Lorin.md",
-                "mode": "preview",
+                "file": "Lendis/Locations/Minabald.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -394,7 +664,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lendis/Locations/Lorin.md",
+                "file": "Lendis/Locations/Minabald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +690,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lendis/Locations/Lorin.md",
+                "file": "Lendis/Locations/Minabald.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -461,7 +731,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lendis/Locations/Lorin.md"
+                "file": "Lendis/Locations/Minabald.md"
               }
             }
           },
@@ -576,38 +846,38 @@
   },
   "active": "5e01d7f3aab97671",
   "lastOpenFiles": [
-    "Lendis/Locations/Zhorhold.md",
-    "Lendis/Locations/Lorin.md",
-    "Lendis/Locations/Lorinhas.md",
-    "Lendis/Locations/Marksgrav.md",
     "Lendis/Locations/Ravidhold.md",
-    "Lendis/Locations/Voristed.md",
+    "Lendis/Locations/Mirror of Stars.md",
+    "Lendis/Locations/Minabald.md",
+    "Lendis/Locations/Immortal Isle.md",
+    "Lendis/Locations/Lorin.md",
+    "Lendis/People/Dragon Lord.md",
+    "Lendis/People/The Elemental Lords.md",
+    "Lendis/Religion/Made Gods/The Made Gods.md",
+    "Lendis/Locations/Worldbirth Mountains.md",
+    "Lendis/Religion/Elemental Lords/Water Lord.md",
+    "Lendis/Religion/Elemental Lords/Metal Lord.md",
+    "Lendis/Religion/Elemental Lords/Fire Lord.md",
+    "Lendis/Religion/Elemental Lords/Earth Lord.md",
+    "Lendis/Religion/Elemental Lords/Air Lord.md",
     "Lendis/Locations/Thaxhold.md",
+    "Lendis/Locations/Marksgrav.md",
+    "Lendis/Religion/The Heavenly Choir/The Heavenly Choir.md",
+    "Lendis/Locations/Drakhold.md",
+    "Lendis/Locations/Dawn Keep.md",
+    "Lendis/Locations/Zhorhold.md",
+    "Lendis/Locations/Balhas.md",
+    "Lendis/Locations/Voristed.md",
+    "Lendis/Locations/Lorinhas.md",
     "Lendis/Uncommon Weapons.md",
     "Lendis/Mechanics.md",
     "Lendis/Lendis.md",
-    "Lendis/Locations/Balhas.md",
-    "Tempest Desert.md",
-    "index.md",
     "Lendis.jpg",
     "Untitled.canvas",
-    "Lendis/Cultural Archetypes/Burgher.md",
-    "Lendis/Cultural Archetypes/Caravaneer.md",
-    "Lendis/Cultural Archetypes/Elemental Court.md",
-    "Lendis/Cultural Archetypes/Immortal Islander.md",
-    "Lendis/Cultural Archetypes/Stone Bound.md",
     "publish.css",
-    "Pathfinder-2E-SRD-Markdown-main/Bestiary/Template-2ETools-Monster-Handlebar.md",
     "world-of-lendis",
     "package.json",
-    "Lendis/Religion/The Heavenly Choir/Choir Gods.md",
-    "Lendis/Religion/Made Gods/The Made Gods.md",
-    "Lendis/Religion/The Heavenly Choir/The Heavenly Choir.md",
-    "Lendis/Religion/Nightmare Cults.md",
     "Lendis/Religion/The Heavenly Choir",
-    "Lendis/Cultural Archetypes/Watcher of Night.md",
-    "Templates/pf2e-1-action.md",
-    "Templates/PF2e - Format Font - Level Highlight.md",
     "Lendis/Religion/Made Gods",
     "Lendis/People",
     "Lendis/Locations",

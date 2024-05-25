@@ -3,5 +3,6 @@
     "Pathfinder-2E-SRD-Markdown-main/",
     "Templates/"
   ],
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "promptDelete": false
 }
