@@ -1,0 +1,13 @@
+Within the six Elemental Planes, there are many elementals of varying powers. The mightiest are called Elemental Lords, and are able to grant divine magic to their [[Elemental Lords|followers]]. Here are some of the most prominent Elemental Lords, although players should feel free to create more to suit their character if needed.
+* The Myriad Self is a Lord of Air. It has no consistent personality or appearance, changing from moment to moment. It encourages its followers to do the same, to cast aside the concept of self to become infinite.
+* The Furthest Wind is a Lord of Air. She embodies journeys and the promise of the horizon. She is always traveling, and always longing to see over just one more hill.
+* The Living Chasm is a Lord of Earth. He appears as a jagged hole reaching down to unknown darkness. His domain contains endless wealth, but also the pressure that turns coal to diamond.
+* The Mountain's Crown is a Lord of Earth. She embodies the greatest of mountains and the smallest grain of sand. She is resolute in the face of all obstacles, and will change to overcome what she cannot resist.
+* The Firestorm Queen is a Lord of Fire. She embodies the principle of fire as untamed and free. Her aspects include both cleansing fire making way for growth as well as destruction unmatched.
+* The Enclosed Hearth is a Lord of Fire. He embodies fire as a tool for mortal kind, the hearth fire that makes a home. He is protective and conservative, keeping to old ways and ensuring nothing threatens his charges.
+* The Forgefather is a Lord of Metal. He embodies metalworking as a way of imposing one's will upon the world. He is a master of every craft, and relentlessly pushes technology and advancement as far and as fast as it will go.
+* The Jagged Blade is a Lord of Metal. She is the cutting knife, the rusted nail, the soaring cannonball. She represents metal at its most destructive, an agent of change and violence.
+* The Coming Tide is a Lord of Water. He is an inexorable force of nature, a representation of the unrelenting march of time and tide. All will be as it must be, and he need only wait.
+* The Current Rider is a Lord of Water. She carries trade ships across the world, and is revered as a patron of trade. Yet she bears warships with equal speed, and reavers as well. All who travel the water are her children.
+* The First Tree is a Lord of Wood. It was the first to grow, the first living thing on the surface of the world. It is ancient, and slow, but is the mightiest Elemental Lord to ever exist.
+* The Walled Garden is a Lord of Wood. He embodies agriculture and the ordering of nature. He touches all manner of cultivation, from crops to livestock. His blessing means bounty, and his curse - famine.

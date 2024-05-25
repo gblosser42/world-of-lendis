@@ -2,7 +2,8 @@
 - When spending a [[chapter-9-playing-the-game#Hero Points|Hero Point]] to reroll, if the initial result was a failure and you do not improve the result by at least one step the Hero Point is refunded.
 - When you or the GM is rolling on a random result table (such as a Rod of Wonder, Weather effects, etc) you may spend a Hero Point to force a reroll and choose which result to take.
 - Instead of the Ability Boosts from your ancestry, you may choose to get two Free boosts instead.
-- [[automatic-bonus-progression-gmg|Automatic Bonus Progression]] and [Free Archetype](https://2e.aonprd.com/Rules.aspx?ID=1333) variant rules are in effect
+- [[automatic-bonus-progression-gmg|Automatic Bonus Progression]] and [Free Archetype](https://2e.aonprd.com/Rules.aspx?ID=1333) variant rules are in effect.
+- Bonuses from Automatic Bonus Progression are Potency bonuses. Items still give item bonuses except where the GM rules they should not.
 - Attack Potency from Automatic Bonus Progression also affects spell attack rolls and impulse attack rolls
 - Automatic Bonus Progression does not grant a Skill Potency bonus. Items will still grant Skill Potency bonuses
 - Ancestries do not give you languages. Instead, you know Common and a number of other languages equal to 1+Intelligence modifier (minimum of 1).

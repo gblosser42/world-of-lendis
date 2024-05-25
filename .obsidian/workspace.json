@@ -18,6 +18,180 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Wood Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Wood Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Water Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Water Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Metal Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Metal Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fire Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Fire Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Earth Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Earth Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fire Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Fire Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Earth Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Earth Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fire Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Fire Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Air Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Air Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":167},\"to\":{\"line\":2,\"ch\":167}}}"
+                },
+                {
+                  "title": "Mechanics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Mechanics.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Dragon Lord",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/Dragon Lord.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Uncommon Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Uncommon Weapons.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":36.96296296296296}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":331},\"to\":{\"line\":0,\"ch\":331}}}"
+                },
+                {
+                  "title": "The Made Gods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Made Gods/The Made Gods.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Made Gods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Made Gods/The Made Gods.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":174},\"to\":{\"line\":0,\"ch\":174}}}"
+                },
+                {
+                  "title": "The Made Gods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Made Gods/The Made Gods.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/People/The Elemental Lords.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lendis",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Lendis.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":49.205882352941174}"
+                },
+                {
+                  "title": "Imperial",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Cultural Archetypes/Imperial.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Elemental Lords",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Religion/Elemental Lords/Elemental Lords.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":354},\"to\":{\"line\":0,\"ch\":354}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Lorin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Lorin.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Kar'dan's Seat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Kar'dan's Seat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}},\"scroll\":0}"
+                },
+                {
                   "title": "Uncommon Weapons",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Uncommon Weapons.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -622,7 +796,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lendis/Locations/Kar'dan's Seat.md",
+                "file": "Lendis/People/The Elemental Lords.md",
                 "mode": "source",
                 "source": false
               }
@@ -675,7 +849,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dragon lord",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -730,7 +904,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lendis/Locations/Kar'dan's Seat.md",
+                "file": "Lendis/People/The Elemental Lords.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -756,7 +930,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lendis/Locations/Kar'dan's Seat.md",
+                "file": "Lendis/People/The Elemental Lords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -797,7 +971,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lendis/Locations/Kar'dan's Seat.md"
+                "file": "Lendis/People/The Elemental Lords.md"
               }
             }
           },
@@ -912,32 +1086,32 @@
   },
   "active": "5e01d7f3aab97671",
   "lastOpenFiles": [
+    "Lendis/Religion/Elemental Lords/Wood Lord.md",
+    "Lendis/Religion/Elemental Lords/Water Lord.md",
+    "Lendis/Religion/Elemental Lords/Metal Lord.md",
+    "Lendis/Religion/Elemental Lords/Fire Lord.md",
+    "Lendis/Religion/Elemental Lords/Earth Lord.md",
+    "Lendis/Religion/Elemental Lords/Air Lord.md",
+    "Lendis/People/The Elemental Lords.md",
+    "Lendis/Mechanics.md",
+    "Lendis/People/Dragon Lord.md",
     "Lendis/Uncommon Weapons.md",
-    "Lendis/Cultural Archetypes/Ironforged.md",
+    "Lendis/Locations/Mirror of Stars.md",
+    "Lendis/Religion/Made Gods/The Made Gods.md",
+    "Lendis/Lendis.md",
+    "Lendis/Cultural Archetypes/Imperial.md",
+    "Lendis/Religion/Elemental Lords/Elemental Lords.md",
+    "Lendis/Locations/Lorin.md",
     "Lendis/Locations/Kar'dan's Seat.md",
+    "Lendis/Cultural Archetypes/Ironforged.md",
     "Lendis/Locations/Drakhold.md",
     "Lendis/Locations/Immortal Isle.md",
     "Lendis/The Nightmare.md",
     "Lendis/Cultural Archetypes/Elemental Court.md",
     "Lendis/Locations/Minabald.md",
     "Lendis/Locations/Ravidhold.md",
-    "Lendis/Locations/Mirror of Stars.md",
-    "Lendis/Locations/Lorin.md",
-    "Lendis/People/Dragon Lord.md",
-    "Lendis/People/The Elemental Lords.md",
-    "Lendis/Religion/Made Gods/The Made Gods.md",
     "Lendis/Locations/Worldbirth Mountains.md",
-    "Lendis/Religion/Elemental Lords/Water Lord.md",
-    "Lendis/Religion/Elemental Lords/Metal Lord.md",
-    "Lendis/Religion/Elemental Lords/Fire Lord.md",
-    "Lendis/Religion/Elemental Lords/Earth Lord.md",
-    "Lendis/Religion/Elemental Lords/Air Lord.md",
     "Lendis/Locations/Thaxhold.md",
-    "Lendis/Locations/Marksgrav.md",
-    "Lendis/Religion/The Heavenly Choir/The Heavenly Choir.md",
-    "Lendis/Locations/Dawn Keep.md",
-    "Lendis/Locations/Zhorhold.md",
-    "Lendis/Locations/Balhas.md",
     "Lendis.jpg",
     "Untitled.canvas",
     "publish.css",
