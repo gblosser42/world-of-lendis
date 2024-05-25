@@ -18,6 +18,72 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Uncommon Weapons",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Uncommon Weapons.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":72.11320754716981}"
+                },
+                {
+                  "title": "Ironforged",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Cultural Archetypes/Ironforged.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Kar'dan's Seat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Kar'dan's Seat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":213},\"to\":{\"line\":36,\"ch\":213}},\"scroll\":24.944103422619047}"
+                },
+                {
+                  "title": "Drakhold",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Drakhold.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":18.602941176470587}"
+                },
+                {
+                  "title": "Kar'dan's Seat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Kar'dan's Seat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":638},\"to\":{\"line\":24,\"ch\":638}},\"scroll\":14.742513020833334}"
+                },
+                {
+                  "title": "Immortal Isle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Immortal Isle.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "The Nightmare",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/The Nightmare.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{\"scroll\":2.975}"
+                },
+                {
+                  "title": "Kar'dan's Seat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Kar'dan's Seat.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":186},\"to\":{\"line\":14,\"ch\":186}},\"scroll\":0}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":47,\"ch\":111}},\"scroll\":0}"
+                },
+                {
+                  "title": "Kar'dan's Seat",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Kar'dan's Seat.md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Minabald",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Minabald.md\",\"mode\":\"source\",\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":265},\"to\":{\"line\":23,\"ch\":265}},\"scroll\":0}"
+                },
+                {
                   "title": "Ravidhold",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Lendis/Locations/Ravidhold.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -556,7 +622,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lendis/Locations/Minabald.md",
+                "file": "Lendis/Locations/Kar'dan's Seat.md",
                 "mode": "source",
                 "source": false
               }
@@ -664,7 +730,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lendis/Locations/Minabald.md",
+                "file": "Lendis/Locations/Kar'dan's Seat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -690,7 +756,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lendis/Locations/Minabald.md",
+                "file": "Lendis/Locations/Kar'dan's Seat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -731,7 +797,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lendis/Locations/Minabald.md"
+                "file": "Lendis/Locations/Kar'dan's Seat.md"
               }
             }
           },
@@ -846,10 +912,16 @@
   },
   "active": "5e01d7f3aab97671",
   "lastOpenFiles": [
+    "Lendis/Uncommon Weapons.md",
+    "Lendis/Cultural Archetypes/Ironforged.md",
+    "Lendis/Locations/Kar'dan's Seat.md",
+    "Lendis/Locations/Drakhold.md",
+    "Lendis/Locations/Immortal Isle.md",
+    "Lendis/The Nightmare.md",
+    "Lendis/Cultural Archetypes/Elemental Court.md",
+    "Lendis/Locations/Minabald.md",
     "Lendis/Locations/Ravidhold.md",
     "Lendis/Locations/Mirror of Stars.md",
-    "Lendis/Locations/Minabald.md",
-    "Lendis/Locations/Immortal Isle.md",
     "Lendis/Locations/Lorin.md",
     "Lendis/People/Dragon Lord.md",
     "Lendis/People/The Elemental Lords.md",
@@ -863,15 +935,9 @@
     "Lendis/Locations/Thaxhold.md",
     "Lendis/Locations/Marksgrav.md",
     "Lendis/Religion/The Heavenly Choir/The Heavenly Choir.md",
-    "Lendis/Locations/Drakhold.md",
     "Lendis/Locations/Dawn Keep.md",
     "Lendis/Locations/Zhorhold.md",
     "Lendis/Locations/Balhas.md",
-    "Lendis/Locations/Voristed.md",
-    "Lendis/Locations/Lorinhas.md",
-    "Lendis/Uncommon Weapons.md",
-    "Lendis/Mechanics.md",
-    "Lendis/Lendis.md",
     "Lendis.jpg",
     "Untitled.canvas",
     "publish.css",
