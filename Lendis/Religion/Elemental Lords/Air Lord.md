@@ -2,6 +2,8 @@
 
 **Anathema** Restrict a flying being to the ground, Keep a creature imprisoned
 
+**Divine Attribute** Dexterity or Wisdom
+
 **Divine Skill** [[chapter-4-skills#Acrobatics (Dex)|Acrobatics]]
 
 **Favored Weapon** [[shortbow|Shortbow]]

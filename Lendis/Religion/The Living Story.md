@@ -2,9 +2,13 @@ To those who follow The Living Story, the world is a great stage, a vibrant stor
 
 **Divine Font** [[heal|Heal]] or [[harm|Harm]]
 
+**Divine Sanctification** can choose Holy or Unholy
+
 **Edicts** Play your Role, Experience the Story, Collect stories
 
 **Anathema** Interrupt a performance, Break character
+
+**Divine Attribute** Dexterity or Charisma
 
 **Divine Skill** [[chapter-4-skills#Deception (Cha)|Deception]]
 

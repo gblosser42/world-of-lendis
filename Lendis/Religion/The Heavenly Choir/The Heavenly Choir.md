@@ -4,9 +4,13 @@ It is a rare home without at least one shrine, and many have more than one. Musi
 
 **Divine Font** [[heal|Heal]]
 
+**Divine Sanctification** can choose Holy
+
 **Edicts** Sing joyously, Give thanks for everything, Respect differing views
 
 **Anathema** Interrupt a song, Silence dissent without discussion
+
+**Divine Attribute** Charisma or Wisdom
 
 **Divine Skill** [[chapter-4-skills#Performance (Cha)|Performance]]
 

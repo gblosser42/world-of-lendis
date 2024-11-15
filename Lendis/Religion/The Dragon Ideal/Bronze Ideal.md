@@ -2,6 +2,8 @@
 
 **Anathema** Abandon your post, Allow a book to be destroyed, Act as a pirate
 
+**Divine Attribute** Intelligence or Dexterity
+
 **Divine Skill** [[chapter-4-skills#Lore (Int)|Sailing Lore]]
 
 **Favored Weapon** [[trident|Trident]]

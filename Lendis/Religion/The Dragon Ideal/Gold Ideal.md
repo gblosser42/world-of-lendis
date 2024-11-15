@@ -2,6 +2,8 @@
 
 **Anathema** Torture or exploit others, Break your solemn word, Rush in recklessly
 
+**Divine Attribute** Strength or Wisdom
+
 **Divine Skill** [[chapter-4-skills#Diplomacy (Cha)|Diplomacy]]
 
 **Favored Weapon** [[Greatsword]]

@@ -2,6 +2,8 @@
 
 **Anathema** Collapse a structure, Fly when you don’t have to
 
+**Divine Attribute** Strength or Constitution
+
 **Divine Skill** [[chapter-4-skills#Nature (Wis)|Nature]]
 
 **Favored Weapon** [[earthbreaker-tv|Earthbreaker]]

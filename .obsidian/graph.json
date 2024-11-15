@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Lendis/Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 2534656
+      }
+    },
+    {
+      "query": "path:\"Lendis/Cultural Archetypes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12386379
+      }
+    },
+    {
+      "query": "path:Lendis/People  ",
+      "color": {
+        "a": 1,
+        "rgb": 7237230
+      }
+    },
+    {
+      "query": "path:Lendis/Religion  ",
+      "color": {
+        "a": 1,
+        "rgb": 15428096
+      }
+    },
+    {
+      "query": "path:Lendis  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "file:index",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.58020833333333,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.4375,
+  "repelStrength": 11.0416666666667,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.8854989543150454,
-  "close": true
+  "linkDistance": 187,
+  "scale": 0.3213363860503656,
+  "close": false
 }

@@ -2,6 +2,8 @@
 
 **Anathema** Lose hope, Move in darkness
 
+**Divine Attribute** Strength or Intelligence
+
 **Divine Skill** [[chapter-4-skills#Intimidation (Cha)|Intimidation]]
 
 **Favored Weapon** [[bastard-sword|Bastard Sword]]

@@ -2,6 +2,6 @@ The Elemental Planes touch [[Lendis]] closely, especially in the nexus city of [
 
 While there are multiple Lords in each Elemental Plane, they are grouped together by element for mechanical purposes. To represent the diversity of Elemental Lords, each Lord listed has only two Cleric Spells. You may select one additional spell of your choice to add to this list, provided it is of a different level than the spells listed and has an elemental trait matching that Lord.
 
-Each Element has a different set of Edicts and Anathema, as well as different Devotee Benefits. All Elements have the [[heal|Heal]] or [[harm|Harm]] Divine Font.
+Each Element has a different set of Edicts and Anathema, as well as different Devotee Benefits. All Elements have the [[heal|Heal]] or [[harm|Harm]] Divine Font and can choose the Holy or Unholy sanctification.
 
 The six Elemental Lords are: [[Air Lord]], [[Earth Lord]], [[Fire Lord]], [[Metal Lord]], [[Water Lord]], and [[Wood Lord]]

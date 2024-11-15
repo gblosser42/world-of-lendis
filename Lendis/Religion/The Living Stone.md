@@ -2,9 +2,13 @@ The planet itself is a god, mother and father to all life upon its surface. Far 
 
 **Divine Font** [[heal|Heal]] or [[harm|Harm]]
 
+**Divine Sanctification** can choose Holy or Unholy
+
 **Edicts** Preserve natural stone, Hone your craft, Follow the will of the Stone
 
 **Anathema** Break or corrupt stone, Ignore the Whispers
+
+**Divine Attribute** Wisdom or Strength
 
 **Divine Skill** [[chapter-4-skills#Crafting (Int)|Crafting]]
 

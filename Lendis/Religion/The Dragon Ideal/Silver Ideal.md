@@ -2,6 +2,8 @@
 
 **Anathema** Allow evil to escape unharmed, Punish an innocent, Turn your back on those who need you
 
+**Divine Attribute** Strength or Constitution
+
 **Divine Skill** [[chapter-4-skills#Athletics (Str)|Athletics]]
 
 **Favored Weapon** [[war-lance-lokl|War Lance]]

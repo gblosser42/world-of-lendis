@@ -2,6 +2,8 @@
 
 **Anathema** Refuse to experiment due to ethical concerns, preserve nature at the expense of progress
 
+**Divine Attribute** Constitution or Intelligence
+
 **Divine Skill** [[chapter-4-skills#Crafting (Int)|Crafting]]
 
 **Favored Weapon** Alchemical Bombs

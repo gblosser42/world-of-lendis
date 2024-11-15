@@ -4,9 +4,13 @@ While Nightmare Cults are as varied as the monsters they worship, below is an ex
 
 **Divine Font** [[harm|Harm]]
 
+**Divine Sanctification** must choose Unholy
+
 **Edicts** Weaken society, Gather the Nightmare, Destroy more than you create
 
 **Anathema** Acknowledge the gods, Kill a Nightmare
+
+**Divine Attribute** Any
 
 **Divine Skill** [[chapter-4-skills#Occultism (Int)|Occultism]]
 

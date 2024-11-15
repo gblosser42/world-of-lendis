@@ -2,6 +2,8 @@
 
 **Anathema** Chop down a tree older than you are, allow a pestilence to go untended
 
+**Divine Attribute** Charisma or Wisdom
+
 **Divine Skill** [[chapter-4-skills#Survival (Wis)|Survival]]
 
 **Favored Weapon** [[sickle|Sickle]]

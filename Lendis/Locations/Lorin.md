@@ -39,7 +39,7 @@ The Republican Army is better trained and equipped, and is operated out of [[Lor
 
 ### Names
 
-Lorin names are typically medium or long in length, with alternating vowel and consonant sounds. Names are typically genderless, with no masculine/feminine differences. Lorin surnames are typically based on musical terms, although some Zhorholder surnames are also common.
+The most prominent feature of Lorin names is alternating vowel and consonant sounds. Names are typically genderless, with no masculine/feminine differences. Lorin surnames are typically based on musical terms, although some Zhorholder surnames are also common.
 
 **Example given names** Ragadin, Lofimala, Adam, Namine, Seteta, Urileno
 

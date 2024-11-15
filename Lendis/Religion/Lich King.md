@@ -2,9 +2,13 @@ While [[The Fist of Order]] does not demand that his subjects worship him, many 
 
 **Divine Font** [[harm|Harm]]
 
+**Divine Sanctification** can choose Unholy
+
 **Edicts** Prepare to become Undead, Pursue the arts, Obey the Lich King’s laws
 
 **Anathema** Destroy undead that are not a direct threat, Force living beings to toil
+
+**Divine Attribute** Intelligence or Charisma
 
 **Divine Skill** [[chapter-4-skills#Arcana (Int)|Arcana]]
 

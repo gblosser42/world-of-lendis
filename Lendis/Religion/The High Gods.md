@@ -2,9 +2,13 @@ The stars above are gods, each one dwelling within a single perfect gem. The fir
 
 **Divine Font** [[heal|Heal]] or [[harm|Harm]]
 
+**Divine Sanctification** can choose Holy
+
 **Edicts** Trust in the prophecies of the stars, Mine for gems, Question the future
 
 **Anathema** Play games of chance, Make important decisions without consulting the stars
+
+**Divine Attribute** Intelligence or Constitution
 
 **Divine Skill** [[chapter-4-skills#Lore (Int)|Astronomy Lore]]
 

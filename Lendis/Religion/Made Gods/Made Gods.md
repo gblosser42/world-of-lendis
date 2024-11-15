@@ -2,9 +2,13 @@ In a solemn hall deep within [[Drakhold]], [[The Made Gods|the Made Gods]] sit. 
 
 **Divine Font** [[heal|Heal]] or [[harm|Harm]]
 
+**Divine Sanctification** can choose Holy or Unholy
+
 **Edicts** Survive no matter the cost, Help those on the path of Greatness, No mercy for the Nightmare
 
-**Anathema** Flee from a fight when staying may achieve a goal, Kill someone stronger than yourself
+**Anathema** Flee from a fight when staying may achieve a goal, Abandon your allies
+
+**Divine Attribute** Constitution or Wisdom
 
 **Divine Skill** [[chapter-4-skills#Occultism (Int)|Occultism]]
 

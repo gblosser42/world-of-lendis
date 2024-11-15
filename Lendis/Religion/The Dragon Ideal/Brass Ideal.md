@@ -2,6 +2,8 @@
 
 **Anathema** Allow slavery to exist unchallenged, Shame someone for not fitting in, Deliberately enter an unfair deal in your favor
 
+**Divine Attribute** Charisma or Dexterity
+
 **Divine Skill** [[chapter-4-skills#Society (Int)|Society]]
 
 **Favored Weapon** [[rapier|Rapier]]

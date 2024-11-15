@@ -2,6 +2,8 @@
 
 **Anathema** Each Anathema of the other five Ideals
 
+**Divine Attribute** Any
+
 **Divine Skill** [[chapter-4-skills#Medicine (Wis)|Medicine]]
 
 **Favored Weapon** [[nodachi-tv|Nodachi]]

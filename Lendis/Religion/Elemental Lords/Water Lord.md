@@ -2,6 +2,8 @@
 
 **Anathema** Pollute natural water, Hide from a storm
 
+**Divine Attribute** Dexterity or Intelligence
+
 **Divine Skill** [[chapter-4-skills#Athletics (Str)|Athletics]]
 
 **Favored Weapon** [[gill-hook-aaws|Gill Hook]]

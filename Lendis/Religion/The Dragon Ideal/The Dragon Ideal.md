@@ -2,6 +2,6 @@ The Dragon Ideal holds the five metallic dragons as paragons for mortals to stri
 
 Followers of the Dragon Ideal tend to pick one Metallic Dragon to attempt to emulate, focusing their efforts on improving and acting along that line. A handful of dedicated practitioners aim for the Platinum Dragon Ideal, a high standard to hold themselves to.
 
-Each Ideal has a different set of Edicts and Anathema, as well as different Devotee Benefits. All Ideals have the [[heal|Heal]] Divine Font.
+Each Ideal has a different set of Edicts and Anathema, as well as different Devotee Benefits. All Ideals have the [[heal|Heal]] Divine Font and can choose Holy sanctification.
 
 The six Dragon Ideals are: The [[Brass Ideal]], The [[Bronze Ideal]], The [[Copper Ideal]], The [[Gold Ideal]], The [[Silver Ideal]], and The [[Platinum Ideal]].

@@ -2,6 +2,8 @@
 
 **Anathema** Kill a child, Overindulge to the point of destruction, Become consumed by revenge
 
+**Divine Attribute** Charisma or Wisdom
+
 **Divine Skill** [[chapter-4-skills#Thievery (Dex)|Thievery]]
 
 **Favored Weapon** [[Dagger]]
