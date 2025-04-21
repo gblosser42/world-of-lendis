@@ -1,6 +1,6 @@
 **Population** 50,000 (entirely in Drakhold and a handful of supporting outposts.)  
 **Species Demographics** 90% Dwarf, 5% Human,  
-2% Halfling, 2% Geniekin, 1% Other  
+2% Kitsune, 2% Geniekin, 1% Other  
 **Main Religion** [[Made Gods]]  
 **Government** Theocracy
 **Cultural Archetype** [[Watcher of Night]]

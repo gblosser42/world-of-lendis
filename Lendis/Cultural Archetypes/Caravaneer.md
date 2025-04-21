@@ -1,4 +1,4 @@
-You were raised in one of the halfling [[Caravans]] that travel the land. Optimistic wanderers, they eagerly seek out new sights and experiences, making a slow circuit of the continent to see and learn whatever they can, and to share it with those they visit.
+You were raised in one of the kitsune [[Caravans]] that travel the land. Optimistic wanderers, they eagerly seek out new sights and experiences, making a slow circuit of the continent to see and learn whatever they can, and to share it with those they visit.
 At 1st level you gain the Caravanner feat.
 
 ```statblock

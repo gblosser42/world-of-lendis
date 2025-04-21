@@ -1,6 +1,6 @@
 **Population** 2 million (38,000 in Ravidhold proper)  
 **Species Demographics** 90% Dwarf, 5% Human,  
-2% Halfling, 2% Geniekin, 1% Other  
+2% Kitsune, 2% Geniekin, 1% Other  
 **Main Religion** [[The High Gods]]  
 **Government** Military Monarchy
 **Cultural Archetype** [[Worldbirth Mountain Folk]]

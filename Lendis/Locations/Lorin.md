@@ -1,5 +1,5 @@
 **Population** 7 million (45,000 in Lorinhas)  
-**Species Demographics** 76% Human, 10% Orc, 6% Dwarf, 3% Dragonkin, 3% Geniekin, 2% Halfling
+**Species Demographics** 76% Human, 10% Orc, 6% Dwarf, 3% Dragonkin, 3% Geniekin, 2% Kitsune
 **Main Religion** [[The Heavenly Choir]]  
 **Government** Representative Democracy
 **Cultural Archetype** [[Burgher]]

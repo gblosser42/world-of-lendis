@@ -1,6 +1,6 @@
 **Population** 800,000 (20,000 in Zhorhold proper)  
 **Species Demographics** 80% Dwarf, 12% Human,  
-3% Halfling, 5% Other  
+3% Kitsune, 5% Other  
 **Main Religion** [[The Living Stone]]  
 **Government** Electoral Monarchy
 **Cultural Archetype** [[Stone Bound]]

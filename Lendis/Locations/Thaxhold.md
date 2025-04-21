@@ -1,6 +1,6 @@
 **Population** 2.8 million (50,000 in Thaxhold proper)  
 **Species Demographics** 95% Dwarf, 2% Human,  
-2% Halfling, 1% Other  
+2% Kitsune, 1% Other  
 **Main Religion** [[The High Gods]]  
 **Government** Limited Monarchy
 **Cultural Archetype** [[Worldbirth Mountain Folk]]
